@@ -16,3 +16,7 @@ Week 3 Master Plan:
 - React Memoization
 https://medium.com/@sdolidze/react-hooks-memoization-99a9a91c8853
 https://hackernoon.com/react-performance-primer-64fe623c4821
+
+5. GraphQL Performance Tricks
+- prefetcjomg data on mouseover
+- optimisitc ui
