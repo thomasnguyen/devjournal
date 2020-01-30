@@ -9,3 +9,10 @@ Week 3 Master Plan:
   - Service Workers
   - Front-end masters course
 3. Become a writer
+4. Master React
+- React Profiler
+- React Hooks
+- Pure Components
+- React Memoization
+https://medium.com/@sdolidze/react-hooks-memoization-99a9a91c8853
+https://hackernoon.com/react-performance-primer-64fe623c4821
